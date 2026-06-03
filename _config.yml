@@ -1,3 +1,3 @@
-# V rootu repo vytvoř soubor _config.yml s obsahem:
+# VV rootu repo vytvoř soubor _config.yml s obsahem:
 include:
   - .well-known
